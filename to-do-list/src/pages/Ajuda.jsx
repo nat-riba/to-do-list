@@ -10,7 +10,7 @@ function Ajuda() {
             <Accordion.Item eventKey="0">
                 <Accordion.Header>Sobre o nosso sistema</Accordion.Header>
                 <Accordion.Body>
-                    MyTask é um sistema para gerenciamento de tarefas pessoais. Nesta aplicação você pode gerenciar todos os seus afazeres.
+                    To do List é um sistema para gerenciamento de tarefas pessoais. Nesta aplicação você pode gerenciar todos os seus afazeres.
                 </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="1">
